@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!-- working example -->
+<h1>The script src attribute</h1>
+
+<script  type="text/javascript" src="https://cdn.jsdelivr.net/gh/loadingIs/saged@v1.0/js3.js" async>
+</script>
+
+<p id="demo"></p>
+
+
+</body>
+</html>
